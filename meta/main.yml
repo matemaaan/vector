@@ -1,7 +1,9 @@
 galaxy_info:
   author: matemaaan
-  description: vector role
+  description: vector-role
   company: devops_netology
+  role_name: vector
+  namespace: matemaaan
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
